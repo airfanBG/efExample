@@ -17,7 +17,7 @@ public class MusicStoreDbContext:DbContext
     public DbSet<User> Users { get; set; }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;username=postgres;password=postgres;");
+        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=MusicShop;username=postgres;password=postgres;");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -1,0 +1,11 @@
+/Users/airfan/Dev/junk/Application/Models/bin/Debug/net8.0/Models.deps.json
+/Users/airfan/Dev/junk/Application/Models/bin/Debug/net8.0/Models.dll
+/Users/airfan/Dev/junk/Application/Models/bin/Debug/net8.0/Models.pdb
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.AssemblyInfoInputs.cache
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.AssemblyInfo.cs
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.csproj.CoreCompileInputs.cache
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.dll
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/refint/Models.dll
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/Models.pdb
+/Users/airfan/Dev/junk/Application/Models/obj/Debug/net8.0/ref/Models.dll
